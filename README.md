@@ -1,16 +1,4 @@
-
-> Open this page at [https://savwicak.github.io/shark-for-environmental-debris/](https://savwicak.github.io/shark-for-environmental-debris/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/savwicak/shark-for-environmental-debris** and import
-
-## Edit this project
+## open to see the code project
 
 To edit this repository in MakeCode.
 
