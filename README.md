@@ -1,6 +1,4 @@
-## open to see the code project
-
-To edit this repository in MakeCode.
+## Open to see the code project
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
