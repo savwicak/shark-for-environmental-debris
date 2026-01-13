@@ -20,7 +20,7 @@ This code is for receiving signals from the camera and running the motor.
 * Microbit
 
 ## Team Member
-Luh Dayu Aqiarasya Hermawan 
-Putri Malika Ashalina
-Mazaya Iffatunnisa
-Savanna Wicaksono
+- Luh Dayu Aqiarasya Hermawan 
+- Putri Malika Ashalina
+- Mazaya Iffatunnisa
+- Savanna Wicaksono
